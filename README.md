@@ -59,4 +59,3 @@ The `master` build should always be clean and pass. If `master` isn't passing, t
 If the tests are still failing on `master`, please [file an issue on GitHub](https://github.com/fastai/fastai/issues) explaining the issue and steps to reproduce the problem.
 
 If the tests are failing on your new branch, but they pass on `master`, this means your code changes broke one of the tests. Investigate what might be causing this and play around until you get the test passing. Feel free to ask for help!
-# fastai_0.7
