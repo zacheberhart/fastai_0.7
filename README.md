@@ -24,7 +24,7 @@ If you're interested in using the library in your own projects, we're happy to h
 
 ### Install as pip package
 
-`pip install git+https://github.com/fastai/fastai.git`
+`pip install git+https://github.com/zacheberhart/fastai_0.7`
 
 ### CPU only environment
 Use this if you do not have an NVidia GPU. Note you are encouraged to use Paperspace to access a GPU in the cloud by following this [guide](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md).
